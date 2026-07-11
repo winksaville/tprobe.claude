@@ -8,7 +8,17 @@
       "Bash(git submodule *)",
       "Read(//home/wink/data/prgs/rust/vc-x1/**)",
       "Bash(find / -name jj-revsets.md)",
-      "Bash(vc-x1 push *)"
+      "Bash(vc-x1 push *)",
+      "Read(//home/wink/data/prgs/rust/zc-msg-x1/notes/**)",
+      "Read(//home/wink/data/prgs/rust/zc-msg-x1/**)",
+      "Read(//home/wink/data/prgs/rust/vc-template-x1/notes/**)",
+      "Read(//home/wink/data/prgs/rust/vc-template-x1/notes/chores/**)",
+      "Bash(jj git *)",
+      "Read(//run/user/1000/gnupg/**)",
+      "Bash(printenv SSH_AUTH_SOCK)",
+      "Bash(git config *)",
+      "Bash(command -v gh)",
+      "Bash(gh --version)"
     ]
   }
 }
