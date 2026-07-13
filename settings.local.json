@@ -23,7 +23,9 @@
       "WebFetch(domain:192.168.1.101)",
       "Bash(scripts/ssh-host.sh)",
       "Bash(echo \"exit=$?\")",
-      "Skill(update-config)"
+      "Skill(update-config)",
+      "Bash(./target/release/examples/tp_pc --help)",
+      "Bash(./target/release/examples/tp_pc --decimals 4)"
     ]
   }
 }
