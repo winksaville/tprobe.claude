@@ -25,7 +25,15 @@
       "Bash(echo \"exit=$?\")",
       "Skill(update-config)",
       "Bash(./target/release/examples/tp_pc --help)",
-      "Bash(./target/release/examples/tp_pc --decimals 4)"
+      "Bash(./target/release/examples/tp_pc --decimals 4)",
+      "Bash(curl -s 'https://crates.io/api/v1/crates?q=no_std%20histogram&per_page=20')",
+      "Bash(curl -s 'https://crates.io/api/v1/crates?q=histogram&per_page=15&sort=downloads' -A 'tprobe-research \\(wink@saville.com\\)')",
+      "Bash(curl -s 'https://raw.githubusercontent.com/pelikan-io/rustcommon/main/histogram/src/lib.rs')",
+      "Bash(curl -s 'https://raw.githubusercontent.com/HdrHistogram/HdrHistogram_rust/master/Cargo.toml')",
+      "Bash(curl -s 'https://raw.githubusercontent.com/iopsystems/histogram/main/Cargo.toml')",
+      "Bash(curl -s 'https://raw.githubusercontent.com/iopsystems/histogram/main/src/lib.rs')",
+      "Bash(curl -s 'https://raw.githubusercontent.com/HdrHistogram/HdrHistogram_rust/main/src/lib.rs')",
+      "Bash(curl -s 'https://crates.io/api/v1/crates?q=no_std+histogram&per_page=20' -A 'tprobe-research \\(wink@saville.com\\)')"
     ]
   }
 }
