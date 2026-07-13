@@ -18,7 +18,12 @@
       "Bash(printenv SSH_AUTH_SOCK)",
       "Bash(git config *)",
       "Bash(command -v gh)",
-      "Bash(gh --version)"
+      "Bash(gh --version)",
+      "WebFetch(domain:192.168.1.218)",
+      "WebFetch(domain:192.168.1.101)",
+      "Bash(scripts/ssh-host.sh)",
+      "Bash(echo \"exit=$?\")",
+      "Skill(update-config)"
     ]
   }
 }
